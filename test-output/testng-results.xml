@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="59" started-at="2021-02-23T17:41:30Z" finished-at="2021-02-23T17:41:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="59" started-at="2021-02-23T17:41:30Z" finished-at="2021-02-23T17:41:30Z">
+      <class name="Qaclickacademy.mavanProject.RestApi">
+        <test-method status="PASS" signature="demotest3()[pri:0, instance:Qaclickacademy.mavanProject.RestApi@694e1548]" name="demotest3" duration-ms="1" started-at="2021-02-23T17:41:30Z" finished-at="2021-02-23T17:41:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demotest3 -->
+        <test-method status="PASS" signature="demotest4()[pri:0, instance:Qaclickacademy.mavanProject.RestApi@694e1548]" name="demotest4" duration-ms="1" started-at="2021-02-23T17:41:30Z" finished-at="2021-02-23T17:41:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demotest4 -->
+      </class> <!-- Qaclickacademy.mavanProject.RestApi -->
+      <class name="Qaclickacademy.mavanProject.Appium">
+        <test-method status="PASS" signature="demotest5()[pri:0, instance:Qaclickacademy.mavanProject.Appium@614ddd49]" name="demotest5" duration-ms="11" started-at="2021-02-23T17:41:30Z" finished-at="2021-02-23T17:41:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demotest5 -->
+        <test-method status="PASS" signature="demotest6()[pri:0, instance:Qaclickacademy.mavanProject.Appium@614ddd49]" name="demotest6" duration-ms="1" started-at="2021-02-23T17:41:30Z" finished-at="2021-02-23T17:41:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demotest6 -->
+      </class> <!-- Qaclickacademy.mavanProject.Appium -->
+      <class name="Qaclickacademy.mavanProject.seleniumTest">
+        <test-method status="PASS" signature="demotest1()[pri:0, instance:Qaclickacademy.mavanProject.seleniumTest@1f554b06]" name="demotest1" duration-ms="2" started-at="2021-02-23T17:41:30Z" finished-at="2021-02-23T17:41:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demotest1 -->
+        <test-method status="PASS" signature="demotest2()[pri:0, instance:Qaclickacademy.mavanProject.seleniumTest@1f554b06]" name="demotest2" duration-ms="1" started-at="2021-02-23T17:41:30Z" finished-at="2021-02-23T17:41:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demotest2 -->
+      </class> <!-- Qaclickacademy.mavanProject.seleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
